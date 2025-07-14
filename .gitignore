@@ -1,0 +1,6 @@
+# Evitar o venv e arquivos temporários
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.log
